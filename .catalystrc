@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "10924000000007003",
+      "name": "estimatingv3",
+      "domain": {
+        "id": "10044011659",
+        "name": "estimatingv3-782259888.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "782259888",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
